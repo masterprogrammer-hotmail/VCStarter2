@@ -1,0 +1,8 @@
+{
+  "name": "VCStarter",
+  "app_id": "b7f1a2cf",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
